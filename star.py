@@ -1,6 +1,7 @@
 import turtle
 turtle.Screen().bgcolor('white')
 star = turtle.Turtle()
+star.pencolor('blue')
 star.left(60)
 star.forward(100)
 star.left(120)
